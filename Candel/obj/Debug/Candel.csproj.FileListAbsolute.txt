@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\Candel\Candel\bin\Debug\Candel.exe.config
+C:\Users\student\source\repos\Candel\Candel\bin\Debug\Candel.exe
+C:\Users\student\source\repos\Candel\Candel\bin\Debug\Candel.pdb
+C:\Users\student\source\repos\Candel\Candel\obj\Debug\Candel.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Candel\Candel\obj\Debug\Candel.frmDashboard.resources
+C:\Users\student\source\repos\Candel\Candel\obj\Debug\Candel.frmLogin.resources
+C:\Users\student\source\repos\Candel\Candel\obj\Debug\Candel.frmSignup.resources
+C:\Users\student\source\repos\Candel\Candel\obj\Debug\Candel.Properties.Resources.resources
+C:\Users\student\source\repos\Candel\Candel\obj\Debug\Candel.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Candel\Candel\obj\Debug\Candel.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Candel\Candel\obj\Debug\Candel.exe
+C:\Users\student\source\repos\Candel\Candel\obj\Debug\Candel.pdb
